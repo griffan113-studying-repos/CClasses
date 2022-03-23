@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_class.c" />
+    <ClCompile Include="2_class.c" />
     <ClCompile Include="CClasses.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

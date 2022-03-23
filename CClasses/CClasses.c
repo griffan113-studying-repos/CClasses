@@ -2,7 +2,7 @@
 #include <math.h>;
 #include <stdlib.h>;
 
-double calculate_circle_area() {
+double main() {
     const int pi_value = 3.14159;
 }
 

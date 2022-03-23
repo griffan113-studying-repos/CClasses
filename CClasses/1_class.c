@@ -1,6 +1,6 @@
-#include <stdio.h>;
+#include <stdio.h>
 
-int first_class() {
+int main() {
 	printf("Hello World");
 
 	return 0;
